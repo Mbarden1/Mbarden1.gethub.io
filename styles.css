@@ -2,6 +2,11 @@
 *Primary color: slategray
 *Secondary color: skyblue
 */
+
+body{
+background: purple;
+}
+
 h1  {
   color: skyblue;
   font-family: 'Lalezar', cursive;
