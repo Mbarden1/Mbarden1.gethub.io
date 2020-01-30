@@ -1,0 +1,29 @@
+/* Style Guide
+*Primary color: slategray
+*Secondary color: skyblue
+*/
+h1  {
+  color: skyblue;
+  font-family: 'Lalezar', cursive;
+font-size: 40px;
+  letter-spacing: 6px;
+  text-align: center;
+}
+
+
+P  {
+  color: slategray;
+}
+
+
+
+
+/* Typography 
+*Primary font:'Lalezar', cursive
+*/
+
+/*  */
+
+img{
+  width:100%;
+}
