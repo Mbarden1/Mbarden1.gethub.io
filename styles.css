@@ -4,11 +4,11 @@
 */
 
 body{
-background: purple;
+background: black;
 }
 
 h1  {
-  color: skyblue;
+  color: slategray;
   font-family: 'Lalezar', cursive;
 font-size: 40px;
   letter-spacing: 6px;
