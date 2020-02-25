@@ -34,6 +34,29 @@ main img {
   grid-column: 1 / 1;
 }
 
+nav {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+nav a:link,
+nav a:visited {
+  text-decoration: none;
+  color: white;
+  padding: .5em;
+  background: slategrey;
+  transition: background .25s
+  
+}
+
+nav a:hover, nav a:focus, nav a:active {
+  background: coral;
+  color: white;
+  transform: scale(1.2);
+  transition: background .1s, transfrom 1s ease-in;
+}
+
+
 
 /* Mobile 
   0 to 26em (416 pixels)
