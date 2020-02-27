@@ -44,13 +44,13 @@ nav a:visited {
   text-decoration: none;
   color: white;
   padding: .5em;
-  background: slategrey;
+  background: black;
   transition: background .25s
   
 }
 
 nav a:hover, nav a:focus, nav a:active {
-  background: coral;
+  background: slategray;
   color: white;
   transform: scale(1.2);
   transition: background .1s, transfrom 1s ease-in;
