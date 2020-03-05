@@ -18,8 +18,7 @@ My name is Matthew Barden, I am an Eastern Washington University student. Studyi
 * White
 
 # Fonts
-* [Bangers](https://fonts.googleapis.com/css?family=Bangers&display=swap" rel="stylesheet")
-
+* [Kanit] ("https://fonts.googleapis.com/css?family=Kanit&display=swap" rel="stylesheet")
 * [Livvic]
 (https://fonts.googleapis.com/css?family=Livvic&display=swap" rel="stylesheet")
 
