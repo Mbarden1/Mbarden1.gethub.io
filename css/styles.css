@@ -10,11 +10,18 @@ background: black;
 h1  {
   color: white;
   font-family: 'Kanit', sans-serif;
-font-size: 80px;
+  font-size: 80px;
   letter-spacing: 8px;
   text-align: center;
 }
 
+h2 {
+  color: coral;
+  font-family: 'Kanit', sans-serif;
+  font-size: 60px;
+  letter-spacing: 4px;
+  text-align: center;
+}
 
 P  {
   color: white;
