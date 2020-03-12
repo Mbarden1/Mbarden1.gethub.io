@@ -1,7 +1,20 @@
 /* Style Guide
 *Primary color: slategray
-*Secondary color: coral
+*Secondary color: skyblue
 */
+img {
+  border-radius: 55%;
+  shape-outside: circle(100%);
+  width: 25%;
+  }
+
+.center {
+  display: block;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
 body{
 background: black;
@@ -10,8 +23,8 @@ background: black;
 h1  {
   color: white;
   font-family: 'Montserrat', sans-serif;
-  font-size: 80px;
-  letter-spacing: 8px;
+  font-size: 75px;
+  letter-spacing: px;
   text-align: center;
 }
 
@@ -26,12 +39,15 @@ h2 {
 P  {
   color: white;
   text-align: center;
+  font-size: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
 }
 
 main { 
-  margin: 0 auto;
-  width: 90%;
-    
+  margin: 5 ;
+  width: 50%;
   display: grid;
   grid-template-columns: 1fr;
 }
@@ -127,6 +143,3 @@ nav a:hover, nav a:focus, nav a:active {
 
 /*  */
 
-img{
-  width:100%;
-}
