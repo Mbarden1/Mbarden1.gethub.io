@@ -7,13 +7,15 @@
 #form {
   margin: auto;
   margin-top: 150px;
+  width: 50%;
+  text-align: left;
 
 }
 
 
 #profile {
-  border-radius: 50%;
-  shape-outside: circle(100%);
+  border-radius: 70%;
+  shape-outside: circle(110%);
   width: 60%;
   padding-bottom: 1em;
   }
@@ -34,7 +36,7 @@ h1  {
   color: white;
   font-family: 'Montserrat', sans-serif;
   font-size: 75px;
-  letter-spacing: px;
+  letter-spacing: 4px;
   text-align: center;
 }
 
@@ -49,8 +51,10 @@ h2 {
 P  {
   font-family: 'Montserrat', sans-serif;
   color: white;
-  text-align: center ;
-    font-size: 14px;
+  text-align: justify;
+  text-justify: inter-word;
+  word-spacing: -3px;
+   font-size: 16px;
   margin-left: auto;
   margin-right: auto;
   width: 55%;
