@@ -38,6 +38,7 @@ My name is Matthew Barden, I am an Eastern Washington University student. Studyi
 * Slategrey
 * Skyblue
 * Black
+* White
 
 ### Typeography:
 * [Bangers] (https://fonts.googleapis.com/css?family=Bangers&display=swap" rel="stylesheet")
