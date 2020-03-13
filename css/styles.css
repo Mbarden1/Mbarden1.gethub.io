@@ -76,7 +76,6 @@ nav a:visited {
   padding: .5em;
   background: black;
   transition: background .25s
-  
 }
 
 nav a:hover, nav a:focus, nav a:active {
@@ -91,14 +90,6 @@ nav a:hover, nav a:focus, nav a:active {
   opacity: .88;
 }
 
-#photos img {
-  width: 30%;
-  float: left;
-  display: block;
-  margin: 10px;
-  margin-top: 50px;
-}
-
 ul {
   list-style: none;
   margin: 0px auto;
@@ -106,23 +97,6 @@ ul {
   display: block;
   max-width: 780px;
   text-align: center;
-}
-
-#overlay {
-  background: rgba(0,0,0, .8);
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  left: 0;
-  display: none;
-  text-align: center;
-}
-
-#overlay img {
-  margin: 10% auto 0;
-  width: 550px;
-  border-radius: 5px;
 }
 
 #photos {
