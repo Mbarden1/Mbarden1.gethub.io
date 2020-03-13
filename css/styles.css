@@ -90,12 +90,20 @@ nav a:hover, nav a:focus, nav a:active {
   opacity: .88;
 }
 
+#photos img {
+  width: 30%;
+  float: left;
+  display: block;
+  margin: 2px;
+}
+
 ul {
   list-style: none;
-  margin: 0px auto;
+  margin: auto;
+  margin-top: 30px;
   padding: 10px;
   display: block;
-  max-width: 780px;
+  max-width: 800px;
   text-align: center;
 }
 
@@ -106,6 +114,14 @@ ul {
 #photo-gallery {
   width: 100%;
 }
+
+
+
+
+
+
+
+
 
 /* Mobile 
   0 to 26em (416 pixels)
