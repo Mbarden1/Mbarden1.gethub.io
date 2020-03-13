@@ -67,7 +67,7 @@ nav {
   display: flex;
   justify-content: space-evenly;
 }
-
+  
 nav a:link,
 nav a:visited {
   font-family: 'Kanit', sans-serif;
