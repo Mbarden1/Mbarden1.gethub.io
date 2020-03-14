@@ -5,15 +5,20 @@
 */
 
 #form {
+  background: black;
+  border: thin;
+  border-color: white;
   margin: auto;
-  margin-top: 150px;
-  width: 50%;
-  text-align: left;
-
+  margin-top: 100px;
+  margin-bottom: 50px;
+  width: 30%;
+  text-align: justify;
+  text-justify: inter-word;
+  display: block;
 }
 
-
 #profile {
+  margin-top: 5px;
   border-radius: 70%;
   shape-outside: circle(110%);
   width: 60%;
@@ -35,13 +40,13 @@ background: black;
 h1  {
   color: white;
   font-family: 'Montserrat', sans-serif;
-  font-size: 75px;
-  letter-spacing: 4px;
+  letter-spacing: 3px;
+  font-size: 65px;
   text-align: center;
 }
 
 h2 {
-  color: coral;
+  color: skyblue;
   font-family: 'Kanit', sans-serif;
   font-size: 60px;
   letter-spacing: 4px;
@@ -108,7 +113,7 @@ nav a:hover, nav a:focus, nav a:active {
   width: 30%;
   float: left;
   display: block;
-  margin: 2px;
+  margin: 3px;
 }
 
 ul {
@@ -129,6 +134,24 @@ ul {
   width: 100%;
 }
 
+#logo {
+ margin-top: 60px;
+  margin: auto;
+  padding: 20px;
+  width: 30%;
+  text-align: center;
+  display: block;
+}
+
+
+#soccer {
+  margin-top: 60px;
+  margin: auto;
+  padding: 20px;
+  width: 30%;
+  text-align: center;
+  display: block;
+}
 /* Mobile 
   0 to 26em (416 pixels)
 */
@@ -136,7 +159,7 @@ ul {
     
   /* Diagnostic Styling. Delete When Done. */
   body:before {
-       background: black;
+       background: white;
        color: white;
        content: "Mobile Size";
   }
@@ -151,7 +174,7 @@ ul {
   /* Diagnostic Styling. Delete When Done. */
   body:before {
        background: black;
-       color: white;
+       color: black;
        content: "Tablet Size";
   }
 
@@ -165,7 +188,7 @@ ul {
   /* Diagnostic Styling. Delete When Done. */
   body:before {
        background: black;
-       color: white;
+       color: black;
        content: "Desktop Size";
   }
 
@@ -178,7 +201,7 @@ ul {
   
   /* Diagnostic Styling. Delete When Done. */
   body:before {
-       background:white;
+       background:black;
        color: black;
        content: "Wide Desktop Size";
   }

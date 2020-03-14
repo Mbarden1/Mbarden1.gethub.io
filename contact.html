@@ -7,10 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="shortcut icon" href="img/barden_design.png" />
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet"> 
+    <link rel="shortcut icon" href="img/favicon.png" />
+    <link rel="stylesheet" href="css/styles.css">   
 
-    <title>Contact Form</title>
+    <title>Matthew Barden Contact Form</title>
 
 </head>
 
@@ -22,28 +23,41 @@
         <a href="/contact.html">Contact</a>
       </nav>
 
+      
 
+<img id="logo" src="img/Barden_design_Logo.png" alt="barden design Barden_design_Logo">
 
+<header>
+    <h1>Contact Matthew Barden</h1>  
+  </header>
 
-    <form id="form" name="contact" method="POST" data-netlify="true">
+    <form id="form" name="contact" method="POST" action="mailto:mbarden6@hotmail.com" enctype="text/plain" data-netlify="true">
         <form name="contact"
           method="POST"
           data-netlify="true"
           data-netlify-recaptcha="true">
           
              <p>
-                <label>Your Name: <input type="text" name="name" required /></label>   
+                <label> Name: <input type="text" name="name" required /></label>   
             </p>
 
             <p>
-                <label>Your Email: <input type="email" name="email" required/></label>
+                <label> Email: <input type="email" name="email" required/></label>
             </p>
 
             <p>
-                <label>Message: <textarea name="message" required></textarea></label>
+                <label> Message: <textarea name="message" required></textarea></label>
             </p>
+
+<p style="width: 100%; text-align:center">
+    would you like to attach a file to discuss?
+    </p>
+</div> 
+
+   <p></p>
+
 <p>
-    <input type="file">
+   <input type="file">
 
     <div data-netlify-recaptcha="true"></div>
 </p>
@@ -53,8 +67,7 @@
                 <button type="submit">Send</button>
             </p>
 
-            </form>
-
+            
       </form>
       
 
