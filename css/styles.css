@@ -159,8 +159,8 @@ ul {
     
   /* Diagnostic Styling. Delete When Done. */
   body:before {
-       background: white;
-       color: white;
+       background: black;
+       color: black;
        content: "Mobile Size";
   }
   
