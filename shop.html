@@ -29,8 +29,63 @@
   </header>
 
 
+    <form id="form" name="contact" method="POST" action="mailto:mbarden6@hotmail.com" enctype="text/plain" data-netlify="true">
+        <form name="contact"
+          method="POST"
+          data-netlify="true"
+          data-netlify-recaptcha="true">
+          
+             <p>
+                <label> Name: <input type="text" name="name" required /></label>   
+            </p>
+
+            <p>
+                <label> Email: <input type="email" name="email" required/></label>
+            </p>
+
+            <p>
+                <label> Message: <textarea name="message" required></textarea></label>
+            </p>
+
+<p style="width: 100%; text-align:center">
+    would you like to attach a file to discuss?
+    </p>
+</div> 
+
+   <p></p>
+
+<p>
+   <input type="file">
+
+    <div data-netlify-recaptcha="true"></div>
+</p>
+           
+
+            <p>
+                <button type="submit">Send</button>
+            </p>
+
+            
+      </form>
 
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   <footer>
 
     <p style="text-align: center;">&copy; Barden Design Co.</p>
