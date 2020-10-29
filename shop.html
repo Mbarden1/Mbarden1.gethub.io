@@ -28,44 +28,114 @@
     <h1>Shop Barden Design Apparel</h1>  
   </header>
 
+  <p style="width: 100%; text-align:center">
+    <h2> Would you like to purhcase a hat?</h2>
+     </p>
+   
+
+  <div id="photos">
+    <ul id="photo-gallery">
+
+     
+
+      <li>
+        <img src="img/hats1.png" alt="flexfit Black"> 
+        </a>
+      </li>
+
+      <li>
+          <img src="img/hats2.png" alt="All Hats">
+        </a>
+      </li>
+
+      <li>
+          <img src="img/hats3.png" alt="Trucker Hats">
+        </a>
+      </li>
+      </ul>
+  </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+
+
+      <h4>If so please fill out the form below to purhcase</h4>
 
     <form id="form" name="contact" method="POST" action="mailto:mbarden6@hotmail.com" enctype="text/plain" data-netlify="true">
         <form name="contact"
           method="POST"
           data-netlify="true"
           data-netlify-recaptcha="true">
-          
+         
              <p>
-                <label> Name: <input type="text" name="name" required /></label>   
+                <label> Name: <br><input type="text" name="name" required /></label>   
             </p>
 
             <p>
-                <label> Email: <input type="email" name="email" required/></label>
+                <label> Email: <br><input type="email" name="email" required/></label>
             </p>
+
+           <p style="text-align: left;">Hat Type:</p>
 
             <p>
-                <label> Message: <textarea name="message" required></textarea></label>
+                <input type="checkbox" id="hat1" name="hat1" value="Black flexfit">
+                <label for="hat1">Black FlexFit</label><br>
+
+                <input type="checkbox" id="hat2" name="hat2" value="Grey flexfit">
+                <label for="hat2">Grey FlexFit</label><br>
+
+                <input type="checkbox" id="hat3" name="hat3" value="Orange Trucker">
+                <label for="hat3">Orange Trucker</label><br>
+
+                <input type="checkbox" id="hat4" name="hat4" value="Black Trucker">
+                <label for="hat4">Black Trucker</label><br>
+
+                <input type="checkbox" id="hat5" name="hat5" value="Grey Trucker">
+                <label for="hat5">Grey Trucker</label><br>
+
+                <input type="checkbox" id="hat6" name="hat6" value="Black Dad Hat">
+                <label for="hat6">Black Dad Hat </label><br>
+
+                <input type="checkbox" id="hat7" name="hat7" value="White Dad Hat">
+                <label for="hat7">White Dad Hat </label><br>
+            </p>  
+
+            <p style="text-align: left;">Please specify quantity of hats you wish to order below in Message</p>
+
+            
+
+            <p>
+                <label> Message: <br><textarea name="message" required></textarea></label>
             </p>
 
-<p style="width: 100%; text-align:center">
-    would you like to attach a file to discuss?
-    </p>
-</div> 
+
+
 
    <p></p>
 
-<p>
-   <input type="file">
 
-    <div data-netlify-recaptcha="true"></div>
-</p>
            
 
             <p>
-                <button type="submit">Send</button>
+                <button type="submit">Submit Order</button>
             </p>
 
-            
+        </div>  
       </form>
 
   

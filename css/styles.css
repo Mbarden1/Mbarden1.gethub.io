@@ -11,7 +11,7 @@
   margin: auto;
   margin-top: 100px;
   margin-bottom: 50px;
-  width: 30%;
+  width: 55%;
   text-align: justify;
   text-justify: inter-word;
   display: block;
@@ -41,7 +41,7 @@ h1  {
   color: white;
   font-family: 'Montserrat', sans-serif;
   letter-spacing: 3px;
-  font-size: 65px;
+  font-size: 75px;
   text-align: center;
 }
 
@@ -52,6 +52,15 @@ h2 {
   letter-spacing: 4px;
   text-align: center;
 }
+h4 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  letter-spacing: 4px;
+  text-align: center;
+}
+
+
 
 P  {
   font-family: 'Montserrat', sans-serif;
@@ -107,14 +116,14 @@ nav a:hover, nav a:focus, nav a:active {
 }
 
 #photos {
-  opacity: .88;
+  opacity: 100%;
 }
 
 #photos img {
   width: 30%;
   float: left;
   display: block;
-  margin: 3px;
+  margin: 5px;
 }
 
 ul {
