@@ -2,7 +2,7 @@
 bardendesign.com
 
 # Bio
-My name is Matthew Barden, I am an Eastern Washington University student. Studying to become a graphic designer. My goal is to eventually become a designer that creates ads, logos and Clothing etc. Some passions of mine are playing soccer, making designs on the computer and spending time with my friends and family.
+ Hello, my name is Matthew Barden and I'm from Covington Washington. I am a senior at Eastern Washington University getting my degree in Visual Communication Design and certification in User Experience Design.Along with a minor in Business Administration. Throughout my education and work, I’ve obtained a wide skillset in graphic design, user experience, user interface design, marketing, advertising, web design, and social media. I’m passionate about problem solving and finding new ways to improve the relationship between human interaction and technology. Technology now is a huge part in our daily lives and I aim to help users adapt to it as it changes.When I'm not working on the world of design, you can probably find me spending time with family and friends or playing soccer. Being in a social environment, taking on new challenges, and prioritizing are a few areas I excel in both in and out of work. I am willing and eager to take on any challenge or opportunity in this field and in life that come my way. My goal is to put forth Excellence in everything i do, and I can not wait to be able to do that for you.
 
 # Descriptors
 * Smart
@@ -12,32 +12,28 @@ My name is Matthew Barden, I am an Eastern Washington University student. Studyi
 * Family
 
 # Colors
-* Slategrey
-* Skyblue
 * Black
+* Coral
 * White
 
 # Fonts
 * [Kanit] ("https://fonts.googleapis.com/css?family=Kanit&display=swap" rel="stylesheet")
 * [Montserrat] ("https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet" )
 
-* [Red Hat Text] 
-(https://fonts.googleapis.com/css?family=Red+Hat+Text&display=swap" rel="stylesheet")
 
 
 # Imagery
-![Soccer](https://www.blagghanaltd.com/wp-content/uploads/2018/11/385791a989c396081a01abfa9c4fb396_p_vi_69586_1526434290.jpg)
+* Personal Images
+* personal Logo
 
-![Steel]   (https://i.pinimg.com/originals/90/25/ef/9025efbc0a4792ad232b2d9b5d974a1e.jpg)
-
-![Lake](https://live.staticflickr.com/3053/2684015970_8d62955594_b.jpg)
+Background Image (https://hansenfoundationnj.org/wp-content/uploads/2017/03/Black-grunge-textures-wallpaper-67593.jpg)
 
 ## Style Tile
 
 ### Colors
-* Slategrey
-* Skyblue
+# Colors
 * Black
+* Coral
 * White
 
 ### Typeography:
@@ -45,7 +41,6 @@ My name is Matthew Barden, I am an Eastern Washington University student. Studyi
 
 * [Livvic] (https://fonts.googleapis.com/css?family=Livvic&display=swap" rel="stylesheet")
 
-* [Red Hat Text] (https://fonts.googleapis.com/css?family=Red+Hat+Text&display=swap" rel="stylesheet")
 
 ## References
 * [Lalezar] (https://necolas.github).io/normalize.css/)

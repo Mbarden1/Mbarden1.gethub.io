@@ -97,6 +97,10 @@ nav {
   display: flex;
   justify-content: space-evenly;
 }
+
+
+  
+
   
 nav a:link,
 nav a:visited {
@@ -111,6 +115,7 @@ nav a:visited {
 nav a:hover, nav a:focus, nav a:active {
   font-family: 'Kanit', sans-serif;
   background: none;
+  outline: coral 5px;
   color: coral;
   transform: scale(1.2);
   transition: background .1s, transfrom 1s ease-in;
@@ -146,11 +151,11 @@ ul {
 }
 
 #logo {
- margin-top: 60px;
+ margin-top: 30px;
   margin: auto;
-  padding: 100px;
-  width: 25%;
-  text-align: center;
+  padding-bottom: 100px;
+  padding-top: 25px;
+ text-align: center;
   display: block;
 }
 
