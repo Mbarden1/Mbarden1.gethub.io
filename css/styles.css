@@ -34,7 +34,7 @@
 }
 
 body{
-  background-image: url("https://hansenfoundationnj.org/wp-content/uploads/2017/03/Black-grunge-textures-wallpaper-67593.jpg");
+  background-color: black;
   background-size: cover;
 }
 
@@ -126,8 +126,8 @@ nav a:hover, nav a:focus, nav a:active {
 }
 
 #photos img {
-  width: 30%;
-  float: left;
+  width: 100%;
+  float: middle ;
   display: block;
   margin: 5px;
 }
